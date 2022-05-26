@@ -1,4 +1,3 @@
-# RedCarlos
 
 ### **Who am I?**
 
