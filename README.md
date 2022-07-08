@@ -7,7 +7,7 @@
 
 ### My socials
 
-- Discord: RedCarlos#0001
+- Discord: [RedCarlos#0001](https://discord.com/)
 - NameMC: [RedCarlos26](https://namemc.com/RedCarlos26)
 - Twitch: [redcarlos26](https://www.twitch.tv/redcarlos26)
 - Youtube: [RedCarlos](youtube.com/channel/UCdoyss5AExdn012sLtH7HCQ)
