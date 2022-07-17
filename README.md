@@ -10,7 +10,7 @@
 - Discord: [RedCarlos#0001](https://discord.com/)
 - NameMC: [RedCarlos26](https://namemc.com/RedCarlos26)
 - Twitch: [redcarlos26](https://www.twitch.tv/redcarlos26)
-- Youtube: [RedCarlos](youtube.com/channel/UCdoyss5AExdn012sLtH7HCQ)
+- Youtube: [RedCarlos](https://www.youtube.com/channel/UCdoyss5AExdn012sLtH7HCQ)
 
 ### **Languages and Tools**
 <img align="left" alt="Intellij" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/intellij-idea-569199.png" />
