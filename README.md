@@ -1,2 +1,2 @@
 - 🌱 Self-taught Java “dev”.
-- 🔭 Working on HIGTools.
+- 🔭 Currently working on [HIGTools](https://github.com/RedCarlos26/HIGTools) & [NetherFreedom-Client](https://github.com/RedCarlos26/NetherFreedom-Client).
