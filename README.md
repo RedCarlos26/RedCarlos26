@@ -1,2 +1,2 @@
-- 🔭 I’m currently working on HIGTools.
-- 🌱 I’m currently learning Java.
+- 🌱 Self tought Java “dev”.
+- 🔭 Working on HIGTools.
