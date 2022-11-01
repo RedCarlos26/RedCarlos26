@@ -1,2 +1,2 @@
-- 🌱 Self tought Java “dev”.
+- 🌱 Self-taught Java “dev”.
 - 🔭 Working on HIGTools.
