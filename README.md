@@ -1,2 +1,2 @@
-- 🌱 I"m a rookie Java dev.
+- 🌱 Rookie Java dev.
 - 🔭 Currently working on [HIGTools](https://github.com/RedCarlos26/HIGTools).
