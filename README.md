@@ -1,2 +1,2 @@
 - 🌱 Rookie Java dev.
-- 🔭 Currently working on [HIGTools](https://github.com/RedCarlos26/HIGTools).
+- 🔭 Currently working on [HIGTools](https://github.com/RedCarlos26/HIGTools) & [WiderTab](https://github.com/RedCarlos26/WiderTab).
